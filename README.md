@@ -19,7 +19,7 @@ Plug 'twh2898/vim-scarpet'
 
 and then restart Vim / Neovim and run `:PlugInstall`.
 
-## Licence
+## License
 
-vim-scarpet uses the [MIT](LICENCE) Licence
+vim-scarpet uses the [MIT](LICENSE) License
 
